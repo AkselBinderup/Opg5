@@ -1,0 +1,9 @@
+# ninja log v7
+80	533	8172269106735796	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/driver/twi.c.o	49facd7b8eed3586
+35	570	8172269106272413	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/RingBuffer.c.o	5c40ace1ab85416e
+46	571	8172269106382436	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/Timer.c.o	57e22c30ba19b6d4
+23	571	8172269106162413	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/ExtInt.c.o	5e429fc2f9dab
+56	571	8172269106495799	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/Uart.c.o	d7a8528bb13c53df
+67	584	8172269106605799	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/driver/ssd1306.c.o	51d06d932d27c162
+24	291	8172270420645176	CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/main.c.o	154a6de1768bce3f
+291	724	8172270423310889	C:/Users/Z6APT/Desktop/Opg5/out/opg5/default.elf	e9381cd2c4586fed

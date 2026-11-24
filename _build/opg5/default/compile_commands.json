@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\ExtInt.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\ExtInt.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/ExtInt.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/ExtInt.c.o"
+},
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\RingBuffer.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\RingBuffer.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/RingBuffer.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/RingBuffer.c.o"
+},
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\Timer.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\Timer.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/Timer.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/Timer.c.o"
+},
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\Uart.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\Uart.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/Uart.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/Uart.c.o"
+},
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\driver\\ssd1306.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\driver\\ssd1306.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/driver/ssd1306.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/driver/ssd1306.c.o"
+},
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\driver\\twi.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\driver\\twi.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/driver/twi.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/driver/twi.c.o"
+},
+{
+  "directory": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/Z6APT/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\opg5_default_default_XC8_compile.dir\\C_\\Users\\Z6APT\\Desktop\\Opg5\\main.c.o -c C:\\Users\\Z6APT\\Desktop\\Opg5\\main.c",
+  "file": "C:/Users/Z6APT/Desktop/Opg5/main.c",
+  "output": "C:/Users/Z6APT/Desktop/Opg5/_build/opg5/default/CMakeFiles/opg5_default_default_XC8_compile.dir/C_/Users/Z6APT/Desktop/Opg5/main.c.o"
+}
+]
